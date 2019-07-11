@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "717294722799",
+    "firebase_url": "https://partime-e5a5a.firebaseio.com",
+    "project_id": "partime-e5a5a",
+    "storage_bucket": "partime-e5a5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717294722799:android:8f8771a57b72cda9",
+        "android_client_info": {
+          "package_name": "com.example.misra.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717294722799-uv77mdaqsl7c1qlh1eed4507e6rmmme4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.misra.myapplication",
+            "certificate_hash": "55e61430616eafb8ddfe7b7de06b7fc607d5399b"
+          }
+        },
+        {
+          "client_id": "717294722799-875i6gsmsi9kstoirppvn9tlpik2fjpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu57sxsi64liAJ2W7VwICE2mV3mjcEkeY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717294722799-875i6gsmsi9kstoirppvn9tlpik2fjpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
